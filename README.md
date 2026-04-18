@@ -34,14 +34,14 @@ This portfolio showcases my journey as a Bachelor of Science student in Informat
 
 **Live Demo**
 
-> Replace this line with your GitHub Pages or Netlify URL once deployed.
+> https://wilshwez.github.io/Personal_portfolio/#
 
 ---
 
 **How to Use**
 
 ```bash
-git clone https://github.com/wilshwez/your-repo-name
+git clone https://github.com/wilshwez/Personal_portfolio
 cd your-repo-name
 # Open index.html in your browser — that's it.
 ```
