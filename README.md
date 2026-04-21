@@ -4,7 +4,7 @@ A personal cybersecurity portfolio website built with vanilla HTML, CSS, and Jav
 
 **Overview**
 
-This portfolio showcases my journey as a Bachelor of Science student in Information Security and Forensics at KCA University, with a focus on SOC operations, ethical hacking, digital forensics, and network security. The site is designed around a dark hacker terminal theme — monospace fonts, green/cyan glow effects, and a subtle scanline overlay to reflect the cybersecurity aesthetic.
+This portfolio showcases my journey as a Bachelor of Science student in Information Security and Forensics at KCA University, with a focus on SOC operations, ethical hacking, digital forensics and network security. The site is designed around a dark hacker terminal theme — monospace fonts, green/cyan glow effects, and a subtle scanline overlay to reflect the cybersecurity aesthetic to show .
 
 **Sections**
 
